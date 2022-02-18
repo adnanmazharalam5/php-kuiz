@@ -14,7 +14,7 @@ PHP Kuiz Admin Panel ->
 
 
 ### Full Demo
-[PHP Kuiz](https://www.youtube.com/watch?v=TwSz9bBSpbI)
+[PHP Kuiz](https://phpkuiz.azurewebsites.net/adminhome.php)
 
 ### Requirements 
 
@@ -25,12 +25,7 @@ PHP Kuiz Admin Panel ->
 Front-end :  HTML, CSS
 Back-end:   PHP, MySqli
 
-### Installation
-- Upload PHP-Kuiz to the directory of your choice.
-- Import MySql Db file to your database software (E.g : Php_My_Admin )
-- Configure connection to your database and server by modifying connection.php file
-- Navigate to the installation in your browser
-- Done :)
+
 
 ### Login Details
 
@@ -54,5 +49,3 @@ password:  adminpass123
 
 Please log any issues found in the repository 
 
-### License
-PHP Kuiz is released under the MIT License
